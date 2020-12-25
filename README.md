@@ -12,7 +12,7 @@ $ python3 xmas.py
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/MgcfX49HfZKEtjZioGa99i01l.svg)](https://asciinema.org/a/MgcfX49HfZKEtjZioGa99i01l)
+[![asciicast](https://asciinema.org/a/381085.svg)](https://asciinema.org/a/381085)
 
 ## License
 
